@@ -1,8 +1,6 @@
 [package]
-name = "prime_num"
+name = "prime_multi"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-crossbeam = "0.8"
-num_cpus = "1.13"
